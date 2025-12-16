@@ -50,3 +50,17 @@ rsconnect/
 
 # Data files
 Data/
+
+# Ignore pdf files
+*.pdf
+
+# Ignore data files
+*.tsv
+*.csv
+*.rds
+*.RData
+*.RDS
+
+# Ignore figure files
+*.png
+*.jpg
