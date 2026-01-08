@@ -64,3 +64,10 @@ Data/
 # Ignore figure files
 *.png
 *.jpg
+
+# Ignore data files
+*.txt
+*.tsv
+*.csv
+*.rds
+*.bed
