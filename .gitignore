@@ -60,6 +60,7 @@ Data/
 *.rds
 *.RData
 *.RDS
+*.svg
 
 # Ignore figure files
 *.png
@@ -71,3 +72,4 @@ Data/
 *.csv
 *.rds
 *.bed
+*.html
