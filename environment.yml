@@ -1,0 +1,21 @@
+name: lncRNA_TF_pairs_analysis
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - jupyter
+  - ca-certificates
+  - openssl
+  - r-irkernel
+  - certifi
+  - r-dplyr
+  - r-stringr
+  - r-ggplot2
+  - r-patchwork
+  - r-ggvenn
+  - r-png
+  - r-ggalluvial
+  - r-cowplot
+prefix: /home/mloza/miniconda3/envs/lncRNA_TF_pairs_analysis
