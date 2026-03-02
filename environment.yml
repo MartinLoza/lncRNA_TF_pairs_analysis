@@ -18,4 +18,3 @@ dependencies:
   - r-png
   - r-ggalluvial
   - r-cowplot
-prefix: /home/mloza/miniconda3/envs/lncRNA_TF_pairs_analysis
